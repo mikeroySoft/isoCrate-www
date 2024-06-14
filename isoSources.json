@@ -21,18 +21,39 @@
       "imageName": "opticaldisc"
     },
     {
-      "name": "Ubuntu 23.10",
+      "name": "Ubuntu 22.04.4 LTS (Jammy Jellyfish) Daily Build",
       "osType": "Linux",
       "osArch": "arm64",
-      "downloadURL": "https://cdimage.ubuntu.com/daily-live/pending/mantic-desktop-arm64.iso",
+      "downloadURL": "https://cdimage.ubuntu.com/jammy/daily-live/current/jammy-desktop-arm64.iso",
       "imageName": "menucard"
     },
     {
-      "name": "Kali Linux 2023.2",
-      "osType": "Linux",
-      "osArch": "arm64",
-      "downloadURL": "https://cdimage.kali.org/kali-2023.2/kali-linux-2023.2a-installer-arm64.iso",
-      "imageName": "opticaldisc"
+        "name": "Ubuntu 24.04 (Noble Numbat)",
+        "osType": "Linux",
+        "osArch": "arm64",
+        "downloadURL": "https://cdimage.ubuntu.com/daily-live/20240421/noble-desktop-arm64.iso",
+        "imageName": "menucard"
+    },
+    {
+        "name": "Ubuntu 24.10 (Oracular Oriole) Daily Build",
+        "osType": "Linux",
+        "osArch": "arm64",
+        "downloadURL": "https://cdimage.ubuntu.com/daily-live/current/oracular-desktop-arm64.iso",
+        "imageName": "menucard"
+    },
+    {
+        "name": "Kali Linux 2024.2",
+        "osType": "Linux",
+        "osArch": "arm64",
+        "downloadURL": "https://cdimage.kali.org/kali-2024.2/kali-linux-2024.2-installer-arm64.iso",
+        "imageName": "opticaldisc"
+    },
+    {
+        "name": "Kali Linux 2024.2 NetInstaller",
+        "osType": "Linux",
+        "osArch": "arm64",
+        "downloadURL": "https://cdimage.kali.org/kali-2024.2/kali-linux-2024.2-installer-netinst-arm64.iso",
+        "imageName": "opticaldisc"
     },
     {
       "name": "FreeBSD 13.2",
@@ -40,6 +61,27 @@
       "osArch": "arm64",
       "downloadURL": "https://download.freebsd.org/releases/arm64/aarch64/ISO-IMAGES/13.2/FreeBSD-13.2-RELEASE-arm64-aarch64-disc1.iso",
       "imageName": "menucard"
+    },
+    {
+        "name": "FreeBSD 13.3",
+        "osType": "BSD",
+        "osArch": "arm64",
+        "downloadURL": "https://download.freebsd.org/releases/arm64/aarch64/ISO-IMAGES/13.3/FreeBSD-13.3-RELEASE-arm64-aarch64-disc1.iso",
+        "imageName": "menucard"
+    },
+    {
+        "name": "FreeBSD 14.0",
+        "osType": "BSD",
+        "osArch": "arm64",
+        "downloadURL": "https://download.freebsd.org/releases/arm64/aarch64/ISO-IMAGES/14.0/FreeBSD-14.0-RELEASE-arm64-aarch64-disc1.iso",
+        "imageName": "menucard"
+    },
+    {
+        "name": "FreeBSD 14.1",
+        "osType": "BSD",
+        "osArch": "arm64",
+        "downloadURL": "https://download.freebsd.org/releases/arm64/aarch64/ISO-IMAGES/14.1/FreeBSD-14.1-RELEASE-arm64-aarch64-disc1.iso",
+        "imageName": "menucard"
     }
   ]
   
