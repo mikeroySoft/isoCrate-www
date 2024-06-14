@@ -1,0 +1,45 @@
+[
+    {
+      "name": "Debian 12.5.0",
+      "osType": "Linux",
+      "osArch": "arm64",
+      "downloadURL": "https://cdimage.debian.org/debian-cd/current/arm64/iso-cd/debian-12.5.0-arm64-netinst.iso",
+      "imageName": "opticaldisc"
+    },
+    {
+      "name": "Fedora 38",
+      "osType": "Linux",
+      "osArch": "arm64",
+      "downloadURL": "https://download.fedoraproject.org/pub/fedora/linux/releases/38/Workstation/aarch64/iso/Fedora-Workstation-Live-aarch64-38-1.6.iso",
+      "imageName": "menucard"
+    },
+    {
+      "name": "Photon OS 5",
+      "osType": "Linux",
+      "osArch": "arm64",
+      "downloadURL": "https://packages.vmware.com/photon/5.0/GA/iso/photon-minimal-5.0-dde71ec57.aarch64.iso",
+      "imageName": "opticaldisc"
+    },
+    {
+      "name": "Ubuntu 23.10",
+      "osType": "Linux",
+      "osArch": "arm64",
+      "downloadURL": "https://cdimage.ubuntu.com/daily-live/pending/mantic-desktop-arm64.iso",
+      "imageName": "menucard"
+    },
+    {
+      "name": "Kali Linux 2023.2",
+      "osType": "Linux",
+      "osArch": "arm64",
+      "downloadURL": "https://cdimage.kali.org/kali-2023.2/kali-linux-2023.2a-installer-arm64.iso",
+      "imageName": "opticaldisc"
+    },
+    {
+      "name": "FreeBSD 13.2",
+      "osType": "BSD",
+      "osArch": "arm64",
+      "downloadURL": "https://download.freebsd.org/releases/arm64/aarch64/ISO-IMAGES/13.2/FreeBSD-13.2-RELEASE-arm64-aarch64-disc1.iso",
+      "imageName": "menucard"
+    }
+  ]
+  
