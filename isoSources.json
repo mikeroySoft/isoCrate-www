@@ -7,10 +7,10 @@
       "imageName": "opticaldisc"
     },
     {
-      "name": "Fedora 38",
+      "name": "Fedora 40",
       "osType": "Linux",
       "osArch": "arm64",
-      "downloadURL": "https://download.fedoraproject.org/pub/fedora/linux/releases/38/Workstation/aarch64/iso/Fedora-Workstation-Live-aarch64-38-1.6.iso",
+      "downloadURL": "https://download-ib01.fedoraproject.org/pub/fedora/linux/releases/40/Workstation/aarch64/iso/Fedora-Workstation-Live-osb-40-1.14.aarch64.iso",
       "imageName": "menucard"
     },
     {
